@@ -12,7 +12,9 @@ body {
 	margin:auto;
     margin-right: 10%;
 	margin-left: 10%;
-	
+}
+.umumiy:hover{
+	color: yellowgreen;
 }
 .main-section {
 	border: 10px solid white;
@@ -43,23 +45,35 @@ body {
 	overflow: hidden;
 }
 .rasm_yozuv2{
-	display: flex;
-	
+	display: flex;	
+}
+.rasm_yozuv:hover{
+ 	color: yellowgreen;
 }
 .tema_1 {
 	display: flex;
 	align-items: center;
 }
+.tema_1:hover {
+	color: yellowgreen;
+}
 .date {
 	border-bottom: 2px dashed blue;
+}
+.date:hover{
+	color: yellowgreen;
 }
 .tema_2{
 	display: flex;
 	align-items: center;
 }
+.tema_2:hover{
+	color: yellowgreen;
+}
 
-.date_2{
+.date_2:hover {
 	border-bottom: 2px dashed blue;
+	color: yellowgreen;
 }
 .Friends{
 	box-sizing: border-box;
@@ -69,6 +83,13 @@ body {
 	width: 300px;
 	padding-left: 20px;
 }
+.todo-header:hover {
+	color: yellowgreen;
+}
+.todo-header_2:hover{
+	color: yellowgreen;
+}
+
 
 
 
