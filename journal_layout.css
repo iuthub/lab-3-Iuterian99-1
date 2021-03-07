@@ -5,12 +5,22 @@
 }
 body {
 	font-family: Arial, Helvetica, sans-serif;
+	margin: auto;
+	background-image: url("background_image.jpg"), url("paper.gif");
+}
+.umumiy{
+	margin:auto;
+    margin-right: 10%;
+	margin-left: 10%;
+	
 }
 .main-section {
 	border: 5px solid green;
+	background-color: white;
 }
 .header-box {
 	border: 5px solid orangered;
+	
 }
 .site-header{
 	font-size: 40px;
@@ -22,18 +32,29 @@ body {
 }
 .body_1{
 	border: 5px solid blue;
+	background-color: #E8FBFB;
+	overflow: hidden;
+}
+.rasm_yozuv{
+	display:flex;
 }
 .body_2{
 	border: 5px solid blue;
+	background-color: #E8FBFB;
+	overflow: hidden;
 }
-.todo-box {
+.rasm_yozuv2{
+	display: flex;
+	
+}
+.tema_1 {
 	display: flex;
 	align-items: center;
 }
 .date {
 	border: 5px solid purple;
 }
-.todo-box_2{
+.tema_2{
 	display: flex;
 	align-items: center;
 }
@@ -41,6 +62,6 @@ body {
 .date_2{
 	border: 5px solid purple;
 }
-.odamcha_rasm{
-	border: 5px solid white;
-}
+
+
+
