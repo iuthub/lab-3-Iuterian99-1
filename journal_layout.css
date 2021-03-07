@@ -26,6 +26,9 @@ body {
 	font-size: 40px;
 	font-family: Helvetica;
 }
+.All_body{
+	display: flex;
+}
 .body_1{
 	border: 4px solid #C2E9E9;
 	background-color: #E8FBFB;
@@ -57,6 +60,14 @@ body {
 
 .date_2{
 	border-bottom: 2px dashed blue;
+}
+.Friends{
+	box-sizing: border-box;
+	border: 5px solid rgb(32, 131, 153);
+    background-color: #8bdfdf;
+	height: 130px;
+	width: 300px;
+	padding-left: 20px;
 }
 
 
