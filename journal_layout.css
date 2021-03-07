@@ -70,9 +70,10 @@ body {
 .tema_2:hover{
 	color: yellowgreen;
 }
-
-.date_2:hover {
+.date_2{
 	border-bottom: 2px dashed blue;
+}
+.date_2:hover {
 	color: yellowgreen;
 }
 .Friends{
